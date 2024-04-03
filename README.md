@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
-Tic-tac-toe is like it sounds a tic-tac-toe game. It is part of Harvard's CS50 Intro to Artificial Intelligence Model.
-It is an AI that you can play tic-tac-toe against. You cannot beat it as it plays optimally leading to a win for the "computer" player or a tie.
+Tic-Tac-Toe is, like it sounds; a Tic-Tac-Toe game. Also known as Noughts and Crosses. It is part of Harvard's CS50 Intro to Artificial Intelligence Course.
+It is an AI that you can play Tic-Tac-Toe against, although it is probably not a particularly fun game since you cannot beat it. It plays optimally leading to a win for the "computer" player or a tie.
 
 It uses a Minimax Algorithm with Alpha-Beta Pruning.
 
